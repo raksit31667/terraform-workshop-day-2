@@ -1,0 +1,2 @@
+nonprod_env_name="nonprod"
+prod_env_name="prod"
